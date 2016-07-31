@@ -6,7 +6,7 @@ Practice pecifics:
 
 Models
   * At least three classes
-    ** Relationships
+    * Relationships
       * Belongs to
       * Has many
       * Has many, through
